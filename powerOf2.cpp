@@ -11,7 +11,8 @@ bool PowerOfTwo(int X)
 {
 	if( X && !( X & (X - 1) ) )
 		return true;
-	
+	//this will take log(n) time in worst case(equal to no of digits in no)
+	//actual time complexity is equal to no of set bits
 	return false;
 }
 
