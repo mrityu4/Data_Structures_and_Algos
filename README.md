@@ -9,6 +9,9 @@ Basic Data Structures and Algorithms in the CPP Language
 - Graphs
 - Linked List(Doubly and Singly)
 - Rudimentary Algorithms
+- Check if a no is power of 2
+- MACRO to set, toggle & clear bits
+- check if two strings are Anagrams
 
 
 
